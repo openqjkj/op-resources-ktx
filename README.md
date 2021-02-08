@@ -5,7 +5,7 @@ Android Resources kotlin externsion
 ## Usage
 
 ```gradle
-    implementation 'com.openpix:op-resources-ktx:1.0.0'
+    implementation 'com.openqjkj:op-resources-ktx:1.0.0'
 ```
 
 ## Demo
